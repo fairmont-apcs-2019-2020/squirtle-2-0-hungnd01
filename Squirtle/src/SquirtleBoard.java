@@ -7,7 +7,7 @@ public class SquirtleBoard extends Board {
 	 	super(8, 4);
 	 	newGame(false);
 	 	setTitle("PokemonCode Assignment 1");
-	 	setInitialText("What will Squirtle do with Bulbasaur's flowers?");
+	 	setInitialText("What will Squirtle do with Bulbasaur's flower?");
 	}
 	
 
